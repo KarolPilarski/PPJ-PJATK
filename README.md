@@ -1,3 +1,3 @@
 # PPJ
 
-Podstawy programowania w Javie (1 semmestr PJATK)
+Podstawy programowania w Javie (1 semestr PJATK)
